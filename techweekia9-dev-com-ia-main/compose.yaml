@@ -1,0 +1,16 @@
+services:
+  nestjs-api:
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/home/node/app
+
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: fullcycle
+      POSTGRES_USER: fullcycle
+      POSTGRES_PASSWORD: fullcycle
