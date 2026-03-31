@@ -11,7 +11,7 @@ Repository with demonstrative projects developed during **Full Cycle's TechWeek 
 
 ## 📅 About the Event
 
-**Full Cycle Tech Week: IA for Developers** was a free online event held from **November 24-26**. The event was organized by **Full Cycle Faculty of Technology** and aimed to teach how to apply AI in real-world applications.
+**Full Cycle Tech Week: IA for Developers** was a free online event held from **November 24-26, 2026**. The event was organized by **Full Cycle Faculty of Technology** and aimed to teach how to apply AI in real-world applications.
 
 ### What You Learned
 
@@ -209,8 +209,7 @@ Fullcycle-Ia-Agents/
 │   ├── CLAUDE.md            # Agent guidelines
 │   └── compose.yaml
 │
-├── ideas.txt                # Event information
-└── README.md               # This file
+└── README_EN.md            # This file
 ```
 
 ---

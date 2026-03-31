@@ -1,6 +1,6 @@
 # FullCycle IA Agents
 
-Repositório com projetos demonstrativos desenvolvidos durante a **TechWeek de IA #9** da [Full Cycle](https://fullcycle.com.br). Os projetos exploram diferentes abordagens de desenvolvimento assistido por Inteligência Artificial.
+Repositório com projetos demonstrativos desenvolvidos durante a **TechWeek de IA #9** da [Full Cycle](https://fullcycle.com.br). Os projetos exploram desenvolvimento assistido por IA: Multi-Agent RAG jurídico, Prompt Engineering e API e-commerce com NestJS.
 
 ## 🌐🇧🇷 [Versão em Português](README.md)
 ## 🌐🇺🇸 [English Version](README_EN.md)
@@ -11,7 +11,7 @@ Repositório com projetos demonstrativos desenvolvidos durante a **TechWeek de I
 
 ## 📅 Sobre o Evento
 
-**Full Cycle Tech Week: IA for Developers** é um evento online e 100% gratuito realizado de **24 a 26 de novembro**. O evento foi realizado em conjunto com a **Faculdade Full Cycle de Tecnologia** e tinha como objetivo ensinar como aplicar IA de verdade nas aplicações dos participantes.
+**Full Cycle Tech Week: IA for Developers** é um evento online e 100% gratuito realizado de **24 a 26 de novembro de 2026**. O evento foi realizado em conjunto com a **Faculdade Full Cycle de Tecnologia** e tinha como objetivo ensinar como aplicar IA de verdade nas aplicações dos participantes.
 
 ### O que você aprendeu
 
@@ -209,7 +209,6 @@ Fullcycle-Ia-Agents/
 │   ├── CLAUDE.md            # Guidelines para agentes
 │   └── compose.yaml
 │
-├── ideas.txt                # Informações do evento
 └── README.md               # Este arquivo
 ```
 

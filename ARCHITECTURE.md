@@ -11,7 +11,6 @@ Fullcycle-Ia-Agents/
 ├── techweekia9-multi-agents-rag-main/    # Multi-agent Legal RAG System
 ├── techweekia9-prompt-main/               # Prompt Engineering Demo
 ├── techweekia9-dev-com-ia-main/           # NestJS E-commerce API
-├── ideas.txt                              # Event information
 ├── README.md                              # Portuguese version
 ├── README_EN.md                           # English version
 └── ARCHITECTURE.md                       # This file
